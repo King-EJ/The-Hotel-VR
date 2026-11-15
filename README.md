@@ -13,7 +13,7 @@ Version 0.1.9 (test build)
 INSTALL
  unzip to game folder, only tested with virtual desktop XR
 
-**Nefarius ViGEmBus support - with the driver installed (ViGEmBusSetup_x64.msi in the zip) the VR
+**[Nefarius ViGEmBus](https://github.com/nefarius/ViGEmBus/releases) support - with the driver installed (ViGEmBusSetup_x64.msi in the zip) the VR
         controllers are a real virtual Xbox 360 controller ([Controls] InputMethod = Auto / ViGEm / InputSystem).**
 
 VIEWS (right stick click switches)
