@@ -75,12 +75,19 @@ GRAPHICS/ [Graphics] in the config, or the VR settings menu)
   
   No light halos .............. off  (also switches off the volumetric fog light shafts - changes the look more)
   
-  Flashlight .................. right stick down switches the game's flashlight on / off (remembered)
+  Flashlight .................. right stick down switches the game's **flashlight on / off** (remembered)
+
+  Laser ....................... right stick up laser on\off
   
   Dots over items ............. Pickups: a dot floats over things you can pick up (Off / Pickups / AllInteractables)
   
   Melee swing ................. first person, knife / **melee weapon: swing the right controller into an enemy**
                                 ([Melee] MeleeWeapons = the weapon numbers that are melee - see "In your hands:" in the log)
+
+Issuses
+-
+ * you have to live adjust any new weapon picked up (Left grip + X ......... **LIVE HAND ADJUSTMENT** use lase on to help)
+ * quick small flicker (fixed camera trying to switch)
 
 Disable: to disable Mod rename winhttp.dll to winhttp.dll.bak
 
