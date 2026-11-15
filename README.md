@@ -86,7 +86,7 @@ GRAPHICS/ [Graphics] in the config, or the VR settings menu)
 
 Issuses
 -
- * you have to live adjust any new weapon picked up (Left grip + X ......... **LIVE HAND ADJUSTMENT** use lase on to help)
+ * you have to live adjust any new weapon picked up (Left grip + X ......... **LIVE HAND ADJUSTMENT** use laser on to help)
  * quick small flicker (fixed camera trying to switch)
 
 Disable: to disable Mod rename winhttp.dll to winhttp.dll.bak
